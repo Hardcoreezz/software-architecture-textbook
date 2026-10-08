@@ -48,7 +48,7 @@
 - [0.1. Что такое архитектура](./00-professiya/00-01-chto-takoe-arhitektura.md) — что относится к архитектуре, а что нет; значимые решения и их цена.
 - [0.2. Роль и типы архитекторов](./00-professiya/00-02-rol-i-tipy-arhitektorov.md) — виды архитекторов, высота абстракции, место в организации.
 - [0.3. Обязанности и мифы](./00-professiya/00-03-obyazannosti-i-mify.md) — чем архитектор реально занят; risk-driven, последний ответственный момент; развенчание мифов.
-- [0.4. Архитектурное мышление](./00-professiya/00-04-arhitekturnoe-myshlenie.md) — всё компромисс; односторонние/двусторонние двери; «почему важнее как».
+- [0.4. Архитектурное мышление](./00-professiya/00-04-arhitekturnoe-myshlenie.md) — всё компромисс; решения по обратимости (односторонние/двусторонние двери); «почему важнее как».
 - [0.5. Карьерный трек и soft skills](./00-professiya/00-05-karernyy-trek-i-soft-skills.md) — путь к роли; soft skills как ядро; коммуникация и влияние.
 
 ### Модуль 1. Атрибуты качества и требования
@@ -136,7 +136,7 @@
 - [9.3. Инфраструктура как код (IaC)](./09-cloud-native-infrastruktura-dostavka/09-03-iac.md) — декларативность, неизменяемая инфраструктура.
 - [9.4. CI/CD и стратегии доставки](./09-cloud-native-infrastruktura-dostavka/09-04-ci-cd-deployment-strategii.md) — часто и мелко; blue-green, canary, feature flags.
 - [9.5. Стоимость и FinOps](./09-cloud-native-infrastruktura-dostavka/09-05-stoimost-finops.md) — стоимость как атрибут качества; видимость, right-sizing.
-- [9.6. Стратегия тестирования](./09-cloud-native-infrastruktura-dostavka/09-06-strategiya-testirovaniya.md) — тестопригодность как свойство границ; пирамида, контрактные тесты, проверки в проде.
+- [9.6. Стратегия тестирования](./09-cloud-native-infrastruktura-dostavka/09-06-strategiya-testirovaniya.md) — тестируемость как свойство границ; пирамида, контрактные тесты, проверки в проде.
 
 ### Модуль 10. Документация и коммуникация
 Как доносить архитектуру.
@@ -164,7 +164,7 @@
 - [12.3. Agile, процессы и риски](./12-processy-organizaciya-lyudi/12-03-agile-riski.md) — баланс upfront-дизайна и эволюции; walking skeleton.
 - [12.4. Governance и стандарты](./12-processy-organizaciya-lyudi/12-04-governance-standarty.md) — лёгкое управление, guardrails, paved road.
 - [12.5. Build vs Buy](./12-processy-organizaciya-lyudi/12-05-build-vs-buy.md) — строй своё конкурентное преимущество, бери готовое для остального.
-- [12.6. Лидерство и менторство](./12-processy-organizaciya-lyudi/12-06-liderstvo-mentorstvo.md) — влияние без власти; выращивание команды.
+- [12.6. Лидерство и менторство](./12-processy-organizaciya-lyudi/12-06-liderstvo-mentorstvo.md) — лидерство без формальной власти; выращивание команды.
 
 ### Модуль 13. Бизнес и стратегия
 Архитектура на уровне бизнеса.
